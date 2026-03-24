@@ -8,5 +8,9 @@ namespace ela1
 {
     internal class Class1
     {
+        public void pokreni()
+        {
+            //nista
+        }
     }
 }
